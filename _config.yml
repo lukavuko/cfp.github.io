@@ -8,8 +8,8 @@
 title: Commons Fabric Project
 description: A resource hub for the Commons Fabric Project
 theme: jekyll-theme-merlot
-email: luka.vuko@outlook.com
+remote_theme: pages-themes/merlot
 baseurl: "" #  subpath of your site, e.g. /blog
-url: "" # base hostname & protocol for your site, e.g. http://example.com
-# plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
