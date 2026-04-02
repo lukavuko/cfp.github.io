@@ -8,8 +8,6 @@
 title: Commons Fabric Project
 description: A resource hub for the Commons Fabric Project
 theme: jekyll-theme-merlot
-remote_theme: pages-themes/merlot
 baseurl: "/cfp.github.io" #  subpath of your site, e.g. /blog
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
