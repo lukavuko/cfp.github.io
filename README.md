@@ -1,6 +1,7 @@
 ---
 layout: default
 title:  Pins for the Commons Fabric Project
+permalink: /
 ---
 
 # Pinned Workspaces
