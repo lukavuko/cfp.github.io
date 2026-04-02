@@ -1,5 +1,5 @@
 # Workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll site to Pages
+name: Deploy w Jekyll
 
 on:
   push:
@@ -23,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Pages
         uses: actions/configure-pages@v5
-      - name: Build with Jekyll
+      - name: Build w Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
