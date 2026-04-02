@@ -3,7 +3,9 @@
     "allow": [
       "mcp__github__create_or_update_file",
       "WebFetch(domain:docs.github.com)",
-      "mcp__github__get_file_contents"
+      "mcp__github__get_file_contents",
+      "Bash(bundle lock:*)",
+      "Bash(bundle install:*)"
     ]
   }
 }
