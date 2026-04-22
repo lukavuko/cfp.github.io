@@ -20,13 +20,13 @@ permalink: /
 
 | Workspace | Note |
 | --- | --- |
-| [![][ico-zulip] **Zulip**][zulip] | *Comms channel* |
-| [![][ico-gdrive] **Google Drive**][gdrive] | *Document store* |
-| [![][ico-trello] **Trello**][trello] | *Project management* |
-| [![][ico-figma]  **Figma**][figma] | *UI/UX Design and Mockups* |
-| [![][ico-dbdiagram] **dbdiagram.io**][dbdiagram] | *Data Modeling* |
-| [![][ico-github] **Github**][code-repo] | *POC Lab (a code repository)* |
-| [![][ico-zotero] **Zotero**][zotero] | *Group Research Lib* |
+| [![ ][ico-zulip] **Zulip**][zulip] | *Comms channel* |
+| [![ ][ico-gdrive] **Google Drive**][gdrive] | *Document store* |
+| [![ ][ico-trello] **Trello**][trello] | *Project management* |
+| [![ ][ico-figma]  **Figma**][figma] | *UI/UX Design and Mockups* |
+| [![ ][ico-dbdiagram] **dbdiagram.io**][dbdiagram] | *Data Modeling* |
+| [![ ][ico-github] **Github**][code-repo] | *POC Lab (a code repository)* |
+| [![ ][ico-zotero] **Zotero**][zotero] | *Group Research Lib* |
 | *Coming soon* | *Live/Html Mockups* |
 
 
