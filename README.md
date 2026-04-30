@@ -24,10 +24,10 @@ permalink: /
 | [![ ][ico-gdrive] **Google Drive**][gdrive] | *Document store* |
 | [![ ][ico-trello] **Trello**][trello] | *Project management* |
 | [![ ][ico-figma]  **Figma**][figma] | *UI/UX Design and Mockups* |
-| [![ ][ico-dbdiagram] **dbdiagram.io**][dbdiagram] | *Data Modeling* |
-| [![ ][ico-github] **Github**][code-repo] | *POC Lab (a code repository)* |
+| [![ ][ico-github]][code-repo] | *POC Lab (primary code repository)* |
 | [![ ][ico-zotero] **Zotero**][zotero] | *Group Research Lib* |
-| *Coming soon* | *Live/Html Mockups* |
+| [![ ][ico-dbdiagram] **dbdiagram.io**][dbdiagram] | *Data Modeling* |
+| *Coming soon* | *Live/Html Mockups Directory* |
 
 
 ## Pinned Internal Resources
@@ -59,6 +59,9 @@ A non-exhaustive list of key contributions, documents, and resources by to the C
 | [📊 Ottawa Open Data][open-ottawa] | Using open data to make Ottawa better. |
 | *More to come!* | ... |
 
+
+### A Mockups Ta
+
 ---
 
 ### Contributing
@@ -73,15 +76,16 @@ To add or update a link, edit this `README.md` file directly on the `main` branc
 [zotero]:    https://www.zotero.org/groups/6338490/commons-fabric/items/TKAZWTKI/library
 [trello]:    https://trello.com/invite/b/69cc956d727124f773e2bafc/ATTIa2e72aac0da2ea239611c655235c56be18155FFF/the-commons-fabric-project
 [figma]:     https://www.figma.com/community/file/1620970671263316616
+[code-repo]: https://http.cat/status/404
 [dbdiagram]: https://dbdiagram.io/d/CFP-proto-db-model-69cc90cefb2db18e3b5114bb
-[code-repo]: https://github.com/lukavuko/commons-fabric-poc
 
 <!-- links collection -->
+
 [value]:           https://www.forbes.com/sites/michaelskok/2013/06/14/4-steps-to-building-a-compelling-value-proposition/
 [poc-deployed]: https://http.cat/status/404
 [focus]:           https://docs.google.com/document/d/1SrgYS0Y4KsL54IqZlNKmJWhmc2GDdjggoW7YzO0rdrI/edit?usp=sharing
-[feature-excel]:   https://docs.google.com/spreadsheets/d/1fhw5SeE6cqZjFGvWvraetnSg60Hf_rZ8pyj_47yDhe8/edit?gid=1913040094#gid=1913040094
 [product-spec]:    https://docs.google.com/document/d/1l4Omk_xz0alz8nfUTFa-8ajL6ipQ_R_V/edit
+[feature-excel]:   https://docs.google.com/spreadsheets/d/1fhw5SeE6cqZjFGvWvraetnSg60Hf_rZ8pyj_47yDhe8/edit?gid=1913040094#gid=1913040094
 [meeting-notes]:   https://drive.google.com/drive/folders/1NwcXL2ZMDYdHpNuf-0MrzVYwHA03Yu_c?usp=drive_link
 [architecture]:    https://github.com/lukavuko/commons-fabric-poc/blob/main/1_ARCHITECTURE.md
 [s-mockup]:   https://drive.google.com/drive/folders/15h6qvb9JA9q0zLJ0Kfy0g1VJqotkyAce
